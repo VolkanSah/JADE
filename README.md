@@ -1,5 +1,5 @@
 
-# Ransy - Code in JavaScript (Example) v2
+# JSNightmare - Code in JavaScript (Example) v2
 
 ##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings for Offensive Security (update 02/2023)
 
